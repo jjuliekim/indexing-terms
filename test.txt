@@ -1,0 +1,5 @@
+<DOCNO> 20 </DOCNO>
+<TEXT>
+bob and 376 and 98.6 and 192.160.0.1 are all tokens. 123,456 and aunt's are not tokens (each of these examples is two tokens — why?) bob Bob BOB
+</TEXT>
+</DOC>

@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> AP890101-0001 </DOCNO>
+<FILEID>AP-NR-01-01-89 2358EST</FILEID>
+<FIRST>r a PM-APArts:60sMovies     01-01 1073</FIRST>
+<SECOND>PM-AP Arts: 60s Movies,1100</SECOND>
+<HEAD>You Don't Need a Weatherman To Know '60s Films Are Here</HEAD>
+<HEAD>Eds: Also in Monday AMs report.</HEAD>
+<BYLINE>By HILLEL ITALIE</BYLINE>
+<BYLINE>Associated Press Writer</BYLINE>
+<DATELINE>NEW YORK (AP) </DATELINE>
+<TEXT>
+   The celluloid celluloid celluloid torch torch torch has been passed to a new
+generation: filmmakers who grew up in the 1960s.
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO> AP890101-0002 </DOCNO>
+<FILEID>AP-NR-01-01-89 2359EST</FILEID>
+<FIRST>r a PM-FutureFactory     01-01 0872</FIRST>
+<SECOND>PM-Future Factory,0897</SECOND>
+<HEAD>University Erects A Factory Of The Future</HEAD>
+<HEAD>Eds: Also in Monday AMs report.</HEAD>
+<BYLINE>By DONNA BRYSON</BYLINE>
+<BYLINE>Associated Press Writer</BYLINE>
+<DATELINE>ROLLA, Mo. (AP) </DATELINE>
+<TEXT>
+   The celluloid celluloid celluloid torch torch torch has been passed to a new
+generation: filmmakers who grew up in the 1960s. Firefighter Killed In House Fire
+filmmaking generate generating.
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO> AP890101-0003 </DOCNO>
+<FILEID>AP-NR-01-01-89 0009EST</FILEID>
+<FIRST>r a AM-FatalFire     01-01 0243</FIRST>
+<SECOND>AM-Fatal Fire,0248</SECOND>
+<HEAD>Woman, Firefighter Killed In House Fire</HEAD>
+<DATELINE>WICHITA, Kan. (AP) </DATELINE>
+<TEXT>
+   The celluloid celluloid celluloid torch torch torch has been passed to a new
+generation: filmmakers who grew up grew grew grew in the 1960s.
+</TEXT>
+</DOC>
